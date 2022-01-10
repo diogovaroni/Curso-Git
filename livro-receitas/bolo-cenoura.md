@@ -1,6 +1,6 @@
 # Bolo de Cenoura :carrot:
 
-![alt](C:\Users\varon\Documents\workspace\Curso-Git-Dio\livro-receitas\foto1.jpg)
+![alt](C:\Users\varon\Documents\workspace\Curso-Git-Dio\livro-receitas\livro-receitas\foto1.jpg)
 
 ### **Ingredientes** massa
 
