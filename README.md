@@ -1,4 +1,4 @@
-![alt](C:\Users\varon\Documents\workspace\Curso-Git-Dio\livro-receitas\livro-receitas\foto2.jpg)
+![alt](https://github.com/diogovaroni/Curso-Git/blob/master/livro-receitas/foto2.jpg)
 
 
 
